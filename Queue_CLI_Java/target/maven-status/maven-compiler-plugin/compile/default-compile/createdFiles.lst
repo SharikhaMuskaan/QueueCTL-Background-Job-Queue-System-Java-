@@ -1,0 +1,6 @@
+com\example\queuectl\Job.class
+com\example\queuectl\Main.class
+com\example\queuectl\WorkerManager.class
+com\example\queuectl\ConfigStore.class
+com\example\queuectl\Worker.class
+com\example\queuectl\JobStore.class
